@@ -1,5 +1,8 @@
 # fa-node
 
+> The orginal repository is made by insert and can be found [here.](https://gitlab.insrt.uk/insert/furaffinity)
+> This is simply a fix to still get images after some website changes (ex. shinies) and is only here to be used in a discord bot.
+
 > FurAffinity wrapper for Node.js
 
 ## Usage
