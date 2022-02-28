@@ -1,3 +1,8 @@
+# DEPRECATED 
+
+THIS REPO IS NO LONGER KEPT UP TO DATE. Use https://github.com/recallfuture/furaffinity-api instead!
+
+
 # fa-node
 
 > The orginal repository is made by insert and can be found [here.](https://gitlab.insrt.uk/insert/furaffinity)
